@@ -35,7 +35,7 @@ The project is organized into two main folders:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/kriishna04/online-learning-platform
-cd Online_learning_platform
+cd online-learning-platform
 ```
 
 ### 2. Install Dependencies
